@@ -46,7 +46,8 @@ Ethical Hacking fundamentals • Cisco Cybersecurity & Networking
 - Land a strong internship in Web Development or Cybersecurity
 
 ### Contact Me
-- **LinkedIn:** [vishnu-m-a2262b380](http://linkedin.com/in/vishnu-m-a2262b380)
+- **LinkedIn:** [vishnu-m-a2262b380](http:www.linkedin.com/in/VISHNUM2008)
+)
 - **Portfolio:** [vishnumanikandan.edgeone.dev](https://vishnumanikandan.edgeone.dev/?eo_token=75b46122dda2829b99a027dc05a2929d&eo_time=1786552790)
 - **Email:** vishnumcse25_29@ksrce.ac.in
 
